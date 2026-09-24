@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=mobile+%C2%B7+web+%C2%B7+backend+%C2%B7+native;building+whatever+gets+the+idea+working" alt="Typing SVG" />
 
 <p>
-  <a href="https://sakayori.dev"><img src="https://img.shields.io/badge/Sakayori_Studio-111827?style=for-the-badge&logo=github&logoColor=white" alt="Sakayori Studio" /></a>
+  <a href="https://sakayori.dev"><img src="https://img.shields.io/badge/sakayori.dev-111827?style=for-the-badge&logo=github&logoColor=white" alt="sakayori.dev" /></a>
   <a href="https://github.com/Sakayorii"><img src="https://img.shields.io/badge/@Sakayorii-181717?style=for-the-badge&logo=github&logoColor=white" alt="@Sakayorii" /></a>
 </p>
 
@@ -13,71 +13,31 @@
 
 ---
 
-## Selected work
+## About me
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Hi, I'm **Sakayori** — I build things across Android, web, backend and native software.
 
-### [Sakayori Music](https://github.com/Sakayorii/sakayori-music)
+Most of my projects start with *“what if I just make this myself?”* and somehow turn into music clients, readers, browsers, APIs and infrastructure. I like experimenting across stacks instead of staying in one lane.
 
-YouTube Music client for Android.
+## Featured projects
 
-**Kotlin · Java**  
-★ 17 · forks 4
+<div align="center">
 
-</td>
-<td width="50%" valign="top">
+<a href="https://github.com/Sakayorii/sakayori-music">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sakayorii&repo=sakayori-music&theme=transparent&hide_border=true" alt="Sakayori Music" />
+</a>
+<a href="https://github.com/Sakayorii/sakayomi">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sakayorii&repo=sakayomi&theme=transparent&hide_border=true" alt="Sakayomi" />
+</a>
 
-### [Sakayomi](https://github.com/Sakayorii/sakayomi)
+<a href="https://github.com/Sakayorii/miru">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sakayorii&repo=miru&theme=transparent&hide_border=true" alt="Miru" />
+</a>
+<a href="https://github.com/Sakayorii/Oryo-Browser">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sakayorii&repo=Oryo-Browser&theme=transparent&hide_border=true" alt="Oryo Browser" />
+</a>
 
-Ad-free Android manga reader.
-
-**Kotlin · C++ · Java · Python**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Miru](https://github.com/Sakayorii/miru)
-
-Backend + frontend codebase.
-
-**Go · TypeScript**
-
-</td>
-<td width="50%" valign="top">
-
-### [Oryo Browser](https://github.com/Sakayorii/Oryo-Browser)
-
-Native Chromium-side experiments.
-
-**C++ · Python**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Sorayori](https://github.com/Sakayorii/sorayori)
-
-Weather app.
-
-**TypeScript · Rust · CSS**
-
-</td>
-<td width="50%" valign="top">
-
-### [SakayoriExtractor](https://github.com/Sakayorii/SakayoriExtractor)
-
-Java codebase with Protocol Buffers.
-
-**Java · Protocol Buffers**
-
-</td>
-</tr>
-</table>
+</div>
 
 ## Stack
 
