@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="Sakayorii GitHub highlights">
+  <rect width="1200" height="220" fill="#FFFFFF"/>
+  <text x="24" y="30" font-size="13" letter-spacing="2" font-weight="600" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" fill="#656D76">GITHUB HIGHLIGHTS</text>
+  <rect x="24" y="56" width="266" height="136" rx="14" fill="#F6F8FA" stroke="#D0D7DE"/>
+    <text x="48" y="112" font-size="34" font-weight="700" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" fill="#1F2328">1K+</text>
+    <text x="48" y="148" font-size="15" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" fill="#656D76">contributions</text>
+    <circle cx="260" cy="86" r="8" fill="#57606A" opacity=".75"/><rect x="314" y="56" width="266" height="136" rx="14" fill="#F6F8FA" stroke="#D0D7DE"/>
+    <text x="338" y="112" font-size="34" font-weight="700" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" fill="#1F2328">25</text>
+    <text x="338" y="148" font-size="15" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" fill="#656D76">public repositories</text>
+    <circle cx="550" cy="86" r="8" fill="#57606A" opacity=".75"/><rect x="604" y="56" width="266" height="136" rx="14" fill="#F6F8FA" stroke="#D0D7DE"/>
+    <text x="628" y="112" font-size="34" font-weight="700" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" fill="#1F2328">17★</text>
+    <text x="628" y="148" font-size="15" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" fill="#656D76">top repository</text>
+    <circle cx="840" cy="86" r="8" fill="#57606A" opacity=".75"/><rect x="894" y="56" width="266" height="136" rx="14" fill="#F6F8FA" stroke="#D0D7DE"/>
+    <text x="918" y="112" font-size="34" font-weight="700" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" fill="#1F2328">13+</text>
+    <text x="918" y="148" font-size="15" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" fill="#656D76">languages & tools</text>
+    <circle cx="1130" cy="86" r="8" fill="#57606A" opacity=".75"/>
+</svg>
