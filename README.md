@@ -159,10 +159,11 @@ My work moves between Android, web, APIs, infrastructure and native software, de
 
 <div align="center">
 
-<img
-  src="https://github-profile-trophy.vercel.app/?username=Sakayorii&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=12"
-  alt="Sakayorii GitHub trophies"
-/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sakayorii/Sakayorii/main/assets/highlights-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sakayorii/Sakayorii/main/assets/highlights-light.svg">
+  <img width="100%" alt="Sakayorii GitHub highlights" src="https://raw.githubusercontent.com/Sakayorii/Sakayorii/main/assets/highlights-dark.svg">
+</picture>
 
 </div>
 
