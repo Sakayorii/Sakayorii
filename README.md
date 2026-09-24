@@ -6,6 +6,7 @@
 
 <p>
   <a href="https://sakayori.dev"><img src="https://img.shields.io/badge/sakayori.dev-111827?style=for-the-badge&logo=github&logoColor=white" alt="sakayori.dev" /></a>
+  <a href="https://sakayori.studio"><img src="https://img.shields.io/badge/Founder_of_Sakayori_Studio-6F4320?style=for-the-badge&logo=github&logoColor=white" alt="Founder of Sakayori Studio" /></a>
   <a href="https://github.com/Sakayorii"><img src="https://img.shields.io/badge/@Sakayorii-181717?style=for-the-badge&logo=github&logoColor=white" alt="@Sakayorii" /></a>
 </p>
 
@@ -15,7 +16,7 @@
 
 ## About me
 
-Hi, I'm **Sakayori** — I build things across Android, web, backend and native software.
+Hi, I'm **Sakayori**, I build things across Android, web, backend and native software.
 
 Most of my projects start with *“what if I just make this myself?”* and somehow turn into music clients, readers, browsers, APIs and infrastructure. I like experimenting across stacks instead of staying in one lane.
 
@@ -24,17 +25,17 @@ Most of my projects start with *“what if I just make this myself?”* and some
 <div align="center">
 
 <a href="https://github.com/Sakayorii/sakayori-music">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sakayorii&repo=sakayori-music&theme=transparent&hide_border=true" alt="Sakayori Music" />
+  <img width="49%" src="https://opengraph.githubassets.com/1/Sakayorii/sakayori-music" alt="Sakayori Music" />
 </a>
 <a href="https://github.com/Sakayorii/sakayomi">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sakayorii&repo=sakayomi&theme=transparent&hide_border=true" alt="Sakayomi" />
+  <img width="49%" src="https://opengraph.githubassets.com/1/Sakayorii/sakayomi" alt="Sakayomi" />
 </a>
 
 <a href="https://github.com/Sakayorii/miru">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sakayorii&repo=miru&theme=transparent&hide_border=true" alt="Miru" />
+  <img width="49%" src="https://opengraph.githubassets.com/1/Sakayorii/miru" alt="Miru" />
 </a>
 <a href="https://github.com/Sakayorii/Oryo-Browser">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sakayorii&repo=Oryo-Browser&theme=transparent&hide_border=true" alt="Oryo Browser" />
+  <img width="49%" src="https://opengraph.githubassets.com/1/Sakayorii/Oryo-Browser" alt="Oryo Browser" />
 </a>
 
 </div>
