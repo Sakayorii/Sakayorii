@@ -1,26 +1,30 @@
 <div align="center">
 
-# Sakayori
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=DDE6F0&center=true&vCenter=true&width=640&lines=mobile+%C2%B7+web+%C2%B7+backend+%C2%B7+native;building+whatever+gets+the+idea+working" alt="Typing SVG" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sakayorii/Sakayorii/main/assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sakayorii/Sakayorii/main/assets/hero-light.svg">
+  <img width="100%" alt="Sakayori — mobile, web, backend and native software" src="https://raw.githubusercontent.com/Sakayorii/Sakayorii/main/assets/hero-dark.svg">
+</picture>
 
 <p>
-  <a href="https://sakayori.dev"><img src="https://img.shields.io/badge/sakayori.dev-111827?style=for-the-badge&logo=github&logoColor=white" alt="sakayori.dev" /></a>
-  <a href="https://sakayori.studio"><img src="https://img.shields.io/badge/Founder_of_Sakayori_Studio-6F4320?style=for-the-badge&logo=github&logoColor=white" alt="Founder of Sakayori Studio" /></a>
-  <a href="https://github.com/Sakayorii"><img src="https://img.shields.io/badge/@Sakayorii-181717?style=for-the-badge&logo=github&logoColor=white" alt="@Sakayorii" /></a>
+  <a href="https://sakayori.dev">sakayori.dev</a>
+  ·
+  <a href="https://sakayori.studio">Founder of Sakayori Studio</a>
+  ·
+  <a href="https://github.com/Sakayorii">@Sakayorii</a>
 </p>
 
 </div>
 
 ---
 
-## About me
+<p><strong>About me</strong></p>
 
 Hi, I'm **Sakayori**, I build software because I like turning weird ideas into things people can actually use.
 
 My work moves between Android, web, APIs, infrastructure and native software, depending on what the idea needs.
 
-## Selected work
+<p><strong>Selected work</strong></p>
 
 <div align="center">
 
@@ -56,27 +60,27 @@ My work moves between Android, web, APIs, infrastructure and native software, de
 
 </div>
 
-## Toolbox
+<p><strong>Toolbox</strong></p>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
-<img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Shell" />
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS" />
-<img src="https://img.shields.io/badge/Protocol_Buffers-4285F4?style=flat-square&logo=google&logoColor=white" alt="Protocol Buffers" />
+<img src="https://img.shields.io/badge/Kotlin-0D1117?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=white" alt="Go" />
+<img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/Rust-0D1117?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+<img src="https://img.shields.io/badge/Shell-0D1117?style=flat-square&logo=gnubash&logoColor=white" alt="Shell" />
+<img src="https://img.shields.io/badge/PowerShell-0D1117?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
+<img src="https://img.shields.io/badge/HTML-0D1117?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-0D1117?style=flat-square&logo=css&logoColor=white" alt="CSS" />
+<img src="https://img.shields.io/badge/Protocol_Buffers-0D1117?style=flat-square&logo=google&logoColor=white" alt="Protocol Buffers" />
 
 </div>
 
-## Activity
+<p><strong>Activity</strong></p>
 
 <div align="center">
 

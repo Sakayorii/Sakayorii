@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Sakayori — mobile, web, backend and native software">
+  <rect x="1" y="1" width="1198" height="298" rx="2" fill="#f6f8fa" stroke="#d0d7de"/>
+  <circle cx="1010" cy="18" r="160" fill="#dce7e0" opacity=".58"/>
+  <circle cx="1115" cy="132" r="132" fill="#ece2d6" opacity=".48"/>
+  <circle cx="1142" cy="252" r="118" fill="#eadcda" opacity=".34"/>
+  <text x="64" y="92" font-size="44" font-weight="700" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" fill="#1f2328">Sakayori</text>
+  <text x="64" y="138" font-size="20" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" fill="#57606a">mobile · web · backend · native</text>
+  <text x="64" y="194" font-size="18" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" fill="#656d76">Founder of Sakayori Studio · building software across stacks</text>
+  <text x="64" y="244" font-size="16" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" fill="#57606a">sakayori.dev  ·  @Sakayorii</text>
+</svg>
