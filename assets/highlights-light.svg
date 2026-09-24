@@ -12,6 +12,6 @@
     <text x="628" y="148" font-size="15" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" fill="#656D76">top repository</text>
     <circle cx="840" cy="86" r="8" fill="#57606A" opacity=".75"/><rect x="894" y="56" width="266" height="136" rx="14" fill="#F6F8FA" stroke="#D0D7DE"/>
     <text x="918" y="112" font-size="34" font-weight="700" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" fill="#1F2328">13+</text>
-    <text x="918" y="148" font-size="15" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" fill="#656D76">languages & tools</text>
+    <text x="918" y="148" font-size="15" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" fill="#656D76">languages &amp; tools</text>
     <circle cx="1130" cy="86" r="8" fill="#57606A" opacity=".75"/>
 </svg>
