@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="176" viewBox="0 0 520 176" role="img" aria-label="Oryo Browser">
+  <rect x="1" y="1" width="518" height="174" rx="14" fill="#ffffff" stroke="#d0d7de"/>
+  <text x="28" y="34" font-size="12" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" fill="#656d76">Sakayorii / Oryo-Browser</text>
+  <text x="492" y="34" text-anchor="end" font-size="13" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" fill="#57606a">open ↗</text>
+  <text x="28" y="72" font-size="22" font-weight="700" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" fill="#1f2328">Oryo Browser</text>
+  <text x="28" y="101" font-size="14" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" fill="#656d76">Native Chromium-side experiments</text>
+  <rect x="28" y="126" rx="7" ry="7" width="54" height="26" fill="#f6f8fa" stroke="#d0d7de"/><text x="40" y="144" font-size="12" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" fill="#1f2328">C++</text><rect x="90" y="126" rx="7" ry="7" width="67.19999999999999" height="26" fill="#f6f8fa" stroke="#d0d7de"/><text x="102" y="144" font-size="12" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" fill="#1f2328">Python</text>
+</svg>

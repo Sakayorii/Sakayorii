@@ -16,31 +16,47 @@
 
 ## About me
 
-Hi, I'm **Sakayori**, I build things across Android, web, backend and native software.
+Hi, I'm **Sakayori**, I build software because I like turning weird ideas into things people can actually use.
 
-Most of my projects start with *“what if I just make this myself?”* and somehow turn into music clients, readers, browsers, APIs and infrastructure. I like experimenting across stacks instead of staying in one lane.
+My work moves between Android, web, APIs, infrastructure and native software, depending on what the idea needs.
 
-## Featured projects
+## Selected work
 
 <div align="center">
 
 <a href="https://github.com/Sakayorii/sakayori-music">
-  <img width="49%" src="https://opengraph.githubassets.com/1/Sakayorii/sakayori-music" alt="Sakayori Music" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sakayorii/Sakayorii/main/assets/projects/sakayori-music-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sakayorii/Sakayorii/main/assets/projects/sakayori-music-light.svg">
+    <img width="49%" alt="Sakayori Music" src="https://raw.githubusercontent.com/Sakayorii/Sakayorii/main/assets/projects/sakayori-music-dark.svg">
+  </picture>
 </a>
 <a href="https://github.com/Sakayorii/sakayomi">
-  <img width="49%" src="https://opengraph.githubassets.com/1/Sakayorii/sakayomi" alt="Sakayomi" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sakayorii/Sakayorii/main/assets/projects/sakayomi-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sakayorii/Sakayorii/main/assets/projects/sakayomi-light.svg">
+    <img width="49%" alt="Sakayomi" src="https://raw.githubusercontent.com/Sakayorii/Sakayorii/main/assets/projects/sakayomi-dark.svg">
+  </picture>
 </a>
 
 <a href="https://github.com/Sakayorii/miru">
-  <img width="49%" src="https://opengraph.githubassets.com/1/Sakayorii/miru" alt="Miru" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sakayorii/Sakayorii/main/assets/projects/miru-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sakayorii/Sakayorii/main/assets/projects/miru-light.svg">
+    <img width="49%" alt="Miru" src="https://raw.githubusercontent.com/Sakayorii/Sakayorii/main/assets/projects/miru-dark.svg">
+  </picture>
 </a>
 <a href="https://github.com/Sakayorii/Oryo-Browser">
-  <img width="49%" src="https://opengraph.githubassets.com/1/Sakayorii/Oryo-Browser" alt="Oryo Browser" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sakayorii/Sakayorii/main/assets/projects/oryo-browser-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sakayorii/Sakayorii/main/assets/projects/oryo-browser-light.svg">
+    <img width="49%" alt="Oryo Browser" src="https://raw.githubusercontent.com/Sakayorii/Sakayorii/main/assets/projects/oryo-browser-dark.svg">
+  </picture>
 </a>
 
 </div>
 
-## Stack
+## Toolbox
 
 <div align="center">
 
@@ -60,22 +76,14 @@ Most of my projects start with *“what if I just make this myself?”* and some
 
 </div>
 
-## GitHub
+## Activity
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakayorii&theme=github_dark&animation=rise">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakayorii&theme=github&animation=rise">
-  <img width="100%" alt="Sakayorii GitHub profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakayorii&theme=github_dark&animation=rise">
-</picture>
-
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Sakayorii&hide_border=true&background=00000000&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Sakayorii&hide_border=true&background=00000000&ring=0969DA&fire=BC4C00&currStreakLabel=0969DA&sideLabels=1F2328&dates=656D76&currStreakNum=1F2328&sideNums=1F2328">
-  <img width="60%" alt="Sakayorii contribution streak" src="https://streak-stats.demolab.com?user=Sakayorii&hide_border=true&background=00000000">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Sakayorii&hide_border=true&background=00000000&ring=DDE6F0&fire=DDE6F0&currStreakLabel=DDE6F0&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Sakayorii&hide_border=true&background=00000000&ring=57606A&fire=57606A&currStreakLabel=57606A&sideLabels=1F2328&dates=656D76&currStreakNum=1F2328&sideNums=1F2328">
+  <img width="60%" alt="Sakayorii GitHub activity streak" src="https://streak-stats.demolab.com?user=Sakayorii&hide_border=true&background=00000000">
 </picture>
 
 </div>
