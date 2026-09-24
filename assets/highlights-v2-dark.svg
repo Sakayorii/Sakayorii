@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="190" viewBox="0 0 1160 190" role="img" aria-label="Sakayorii GitHub highlights">
+  <rect x="1" y="1" width="1158" height="188" rx="14" fill="#0d1117" stroke="#30363d"/>
+  <text x="28" y="34" font-size="12" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" fill="#8b949e">GITHUB HIGHLIGHTS</text>
+
+  <text x="28" y="90" font-size="30" font-weight="700" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" fill="#f0f6fc">1K+</text>
+  <text x="28" y="118" font-size="13" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" fill="#8b949e">contributions</text>
+
+  <text x="310" y="90" font-size="30" font-weight="700" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" fill="#f0f6fc">25</text>
+  <text x="310" y="118" font-size="13" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" fill="#8b949e">public repositories</text>
+
+  <text x="590" y="90" font-size="30" font-weight="700" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" fill="#f0f6fc">17 stars</text>
+  <text x="590" y="118" font-size="13" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" fill="#8b949e">top repository</text>
+
+  <text x="875" y="90" font-size="30" font-weight="700" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" fill="#f0f6fc">13+</text>
+  <text x="875" y="118" font-size="13" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" fill="#8b949e">languages and tools</text>
+</svg>
