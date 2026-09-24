@@ -2,7 +2,7 @@
 
 # Sakayori
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=mobile+%C2%B7+web+%C2%B7+backend+%C2%B7+native;building+whatever+gets+the+idea+working" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=DDE6F0&center=true&vCenter=true&width=640&lines=mobile+%C2%B7+web+%C2%B7+backend+%C2%B7+native;building+whatever+gets+the+idea+working" alt="Typing SVG" />
 
 <p>
   <a href="https://sakayori.dev"><img src="https://img.shields.io/badge/sakayori.dev-111827?style=for-the-badge&logo=github&logoColor=white" alt="sakayori.dev" /></a>
