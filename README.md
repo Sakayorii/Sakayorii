@@ -160,9 +160,9 @@ My work moves between Android, web, APIs, infrastructure and native software, de
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sakayorii/Sakayorii/main/assets/highlights-dark.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sakayorii/Sakayorii/main/assets/highlights-light.svg?v=2">
-  <img width="100%" alt="Sakayorii GitHub highlights" src="https://raw.githubusercontent.com/Sakayorii/Sakayorii/main/assets/highlights-dark.svg?v=2">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sakayorii/Sakayorii/main/assets/highlights-v2-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sakayorii/Sakayorii/main/assets/highlights-v2-light.svg">
+  <img width="100%" alt="Sakayorii GitHub highlights" src="https://raw.githubusercontent.com/Sakayorii/Sakayorii/main/assets/highlights-v2-dark.svg">
 </picture>
 
 </div>
